@@ -9,7 +9,7 @@ do
 			echo "[!]Welcome to Remote Control"
 			break;;
 		n)
-			echo "[!]Please swtich to root user before running this script. Thank you."
+			echo "[!]Please switch to root user before running this script. Thank you."
 			exit;;
 		*)
 			echo "[!]Invalid input. Please try again."
