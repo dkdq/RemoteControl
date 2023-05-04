@@ -7,3 +7,7 @@ A program that run on any local or virtual Linux or Debian that direct connect t
 - `nipe` an engine to make Tor Network your default gateway
 - `dnsleaktest` an open source script tests VPN connection for DNS Leak 
 - `whois` a lookup tool for domain ownership research 
+
+## Credits
+- [CFCSEA](https://www.centreforcybersecurity.com/about)
+- [David Shiffman](https://www.linkedin.com/in/david-shiffman-%D7%93%D7%95%D7%93-%D7%A9%D7%99%D7%A4%D7%9E%D7%9F-6a92b5b3/?originalSubdomain=il)
